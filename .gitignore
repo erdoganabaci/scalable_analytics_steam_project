@@ -1,3 +1,5 @@
 steam_env
 data/.DS_Store
 .DS_Store
+data/games_metadata.json
+scalable_analytics_steam_project.code-workspace
