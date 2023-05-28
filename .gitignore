@@ -1,4 +1,5 @@
 steam_env
 results/*
 .DS_Store
+data/matrix_game_tags.csv
 scalable_analytics_steam_project.code-workspace
